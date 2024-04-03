@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Smida Wiem</h1>
-<h3 align="center">An under-graduated student</h3>
+<h3 align="center">CS Student at Sorbonne Université</h3>
 
-- 👯 Google DSC Core Team Member - Technology Team [https://gdsc.community.dev/u/mb5jx2/](https://gdsc.community.dev/u/mb5jx2/)
+- 🔭 I’m currently an under-graduated student **🔭**
 
-- 📫 How to reach me **wiem.sm14@gmail.com**
+- 🌱 I’m currently learning deep learning **🌱**
+
+- 🔭 Google DSC Core Team Member - Technology Team [🔭](https://gdsc.community.dev/u/mb5jx2/)
+
+- 🤝 Exploring virtual journeys in a world of 0s and 1s **🤝**
+
+- 📫 How to reach me **📫 wiem.sm14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wiem smida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiem smida" height="30" width="40" /></a>
-<a href="https://fb.com/wiem smida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wiem smida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
